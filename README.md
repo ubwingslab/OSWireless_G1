@@ -18,7 +18,7 @@ All the generated algorithms will be stored in a separate repository
 
 1. **NCP-g2_rate_power** - for Experiment 1: MSMH PowRate ThrptMax
 2. **NCP-g2_min_delay** - for Experiment 2: MSMH PwrRate DlyMin
-3. **NCP-g2_locationr** - for Experiment 3: MSMHMob Mov ThrptMax
+3. **NCP-g2_location** - for Experiment 3: MSMHMob Mov ThrptMax
    
 #######################################################################
 Instructions to execute the algorithms on SDR Testbed:
