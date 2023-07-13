@@ -1,10 +1,9 @@
-##################
-**OSWireless_G1**
-##################
 
-##################
+**OSWireless_G1**
+
+
 **Instructions to generate algorithms:**
-##################
+
 
 First, unzip OSWireless_v1.zip
 
@@ -19,10 +18,9 @@ All the generated algorithms will be stored in a separate repository
 1. **NCP-g2_rate_power** - for Experiment 1: MSMH PowRate ThrptMax
 2. **NCP-g2_min_delay** - for Experiment 2: MSMH PwrRate DlyMin
 3. **NCP-g2_location** - for Experiment 3: MSMHMob Mov ThrptMax
-   
-##################
+ 
 **Instructions to execute the algorithms on SDR Testbed:**
-##################
+
 
 Go to OSW-G2\NeXT-PPS
 
@@ -33,7 +31,6 @@ Go to OSW-G2\NeXT-PPS
 **pc_1.py and pc2.py**
 These two files can be used to start two sessions with 4 nodes each
 
-##################
 
 If you use this program for your work/research, please cite:
 S. K. Moorthy, Z. Guan, N. Mastronarde, E. S. Bentley, M. Medley, "OSWireless: Enhancing Automation for Optimizing Intent-Driven Software-Defined Wireless Networks," in Proc. of IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), Denver, Colorado, October 2022. 
@@ -48,4 +45,3 @@ month = "October",
 year = "2022"
 }
 
-##################
