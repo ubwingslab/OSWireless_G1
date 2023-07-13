@@ -32,7 +32,7 @@ Go to OSW-G2\NeXT-PPS
 
 These two files can be used to start two sessions with 4 nodes each
 
-
+#####################################################
 If you use this program for your work/research, please cite:
 S. K. Moorthy, Z. Guan, N. Mastronarde, E. S. Bentley, M. Medley, "OSWireless: Enhancing Automation for Optimizing Intent-Driven Software-Defined Wireless Networks," in Proc. of IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), Denver, Colorado, October 2022. 
 
