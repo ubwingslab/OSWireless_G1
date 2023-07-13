@@ -1,9 +1,9 @@
 #######################################################################
-######################### OSWireless_G1 ##################################
+**OSWireless_G1 **
 #######################################################################
 
 #######################################################################
-Instructions to generate algorithms:
+**Instructions to generate algorithms:**
 #######################################################################
 
 First, unzip OSWireless_v1.zip
@@ -21,7 +21,7 @@ All the generated algorithms will be stored in a separate repository
 3. **NCP-g2_location** - for Experiment 3: MSMHMob Mov ThrptMax
    
 #######################################################################
-Instructions to execute the algorithms on SDR Testbed:
+**Instructions to execute the algorithms on SDR Testbed:**
 #######################################################################
 
 Go to OSW-G2\NeXT-PPS
