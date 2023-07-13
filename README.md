@@ -6,18 +6,11 @@ S. K. Moorthy, Z. Guan, N. Mastronarde, E. S. Bentley, M. Medley, "OSWireless: E
 
 BibTex 
 @inproceedings{oswireless,
-
 author = "S. K. Moorthy and Z. Guan and N. Mastronarde and E. S. Bentley and M. Medley",
-
 title = "{OSWireless: Enhancing Automation for Optimizing Intent-Driven Software-Defined Wireless Networks}",
-
 booktitle = "Proc. of IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS)",
-
 address = "Denver, Colorado",
-
 month = "October",
-
 year = "2022"
-
 }
 ###########################################################################################################
